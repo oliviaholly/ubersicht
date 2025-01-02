@@ -6,7 +6,7 @@ is currently playing.
 
 Modified from: [Original not found]
 
-![Screenshot of now playing widget](/docs/screenshot.jpg)
+![Screenshot of now playing widget](/images/image_5.png)
 
 ## Installation
 
