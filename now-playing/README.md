@@ -4,8 +4,6 @@ This is a now playing widget for [Übersicht](http://tracesof.net/uebersicht/)
 that displays the current track in Spotify, Music (iTunes), and Sonos depending on which
 is currently playing.
 
-Modified from: [Original not found]
-
 ![screenshot](images/image_5.png)
 
 ## Installation
